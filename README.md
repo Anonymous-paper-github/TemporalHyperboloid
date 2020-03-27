@@ -12,3 +12,10 @@ How to run the code:
 ./pipeline_lp.sh
 
 The default one is testing temporal link perdiction task on collegemsg dataset with dimension=20 and decay=0.3
+
+Data set link:
+arXiv hep-ph       http://konect.uni-koblenz.de/networks/ca-cit-HepPh
+CollegeMsg         https://snap.stanford.edu/data/CollegeMsg.html
+Email-Eu-core      https://snap.stanford.edu/data/email-Eu-core-temporal.html
+PPI                https://github.com/urielsinger/Datasets
+DBLP               http://dblp.uni-trier.de/xm
