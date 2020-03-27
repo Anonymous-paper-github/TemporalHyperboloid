@@ -6,14 +6,7 @@ keras        2.2.4
 tensorflow   1.14.0
 pandas       0.25.1
 
-All the preprocessed dataset used in the paper "Hyperbolic Node Embedding for Temporal Networks" are in the directory "datasets" (arxiv,collegemsg,dblp,email,ppi)
-
-How to run the code:
-./pipeline_lp.sh
-
-The default task is set to the temporal link prediction task on collegemsg dataset with dimension=20 and decay=0.3
-
-Data set link:
+All the preprocessed dataset used in the paper "Hyperbolic Node Embedding for Temporal Networks" are in the directory "datasets" (arxiv,collegemsg,dblp,email,ppi) They are publicly available data from:
 
 arXiv hep-ph       http://konect.uni-koblenz.de/networks/ca-cit-HepPh
 
@@ -24,3 +17,11 @@ Email-Eu-core      https://snap.stanford.edu/data/email-Eu-core-temporal.html
 PPI                https://github.com/urielsinger/Datasets
 
 DBLP               http://dblp.uni-trier.de/xm
+
+How to run the code:
+./pipeline_lp.sh
+
+The default task is set to the temporal link prediction task on collegemsg dataset with dimension=20 and decay=0.3
+
+
+
