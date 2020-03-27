@@ -11,7 +11,7 @@ All the preprocessed dataset used in the paper "Hyperbolic Node Embedding for Te
 How to run the code:
 ./pipeline_lp.sh
 
-The default one is testing temporal link perdiction task on collegemsg dataset with dimension=20 and decay=0.3
+The default task is set to the temporal link prediction task on collegemsg dataset with dimension=20 and decay=0.3
 
 Data set link:
 
