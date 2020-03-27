@@ -23,5 +23,5 @@ How to run the code:
 
 The default task is set to the temporal link prediction task on collegemsg dataset with dimension=20 and decay=0.3
 
-
+The code is built on top of the code base for McDonald, D., He, S.: Heat: Hyperbolic embedding of attributed networks. arXivpreprint arXiv:1903.03036 (2019)
 
