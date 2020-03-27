@@ -6,7 +6,7 @@ keras        2.2.4
 tensorflow   1.14.0
 pandas       0.25.1
 
-All the preprocessed dataset used in the paper "Hyperbolic Node Embedding for TemporalNetworks" are in the directory "datasets" (arxiv,collegemsg,dblp,email,ppi)
+All the preprocessed dataset used in the paper "Hyperbolic Node Embedding for Temporal Networks" are in the directory "datasets" (arxiv,collegemsg,dblp,email,ppi)
 
 How to run the code:
 ./pipeline_lp.sh
